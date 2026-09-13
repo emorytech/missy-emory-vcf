@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 26.6.1//EN
-N:Missy;VCF Test;;;
-FN:VCF Test Missy
+N:Emory\, Realtor;Missy;;;
+FN:Missy Emory\, Realtor
 ORG:Huff Realty Realtor;
-EMAIL;type=INTERNET;type=HOME;type=pref:test-vcf-missy@emory.services
-TEL;type=CELL;type=VOICE;type=pref:1234567890
+EMAIL;type=INTERNET;type=HOME;type=pref:memory@huff.com
+TEL;type=CELL;type=VOICE;type=pref:(859) 816-8423
 item1.ADR;type=HOME;type=pref:;;;Highland Heights;KY;41076;United States
 item1.X-ABADR:us
 X-SOCIALPROFILE;type=facebook:http://www.facebook.com/Facebook.com/MissyEmory.Huff
